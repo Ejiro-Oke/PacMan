@@ -22,3 +22,5 @@ My recreation of PacMAn is a "vanilla javaScript" game with HTML and CSS
 * setInterval()
 * removeEventListener
 * Custom functions.
+
+Check it out [here]https://pac-man-as-taught-by-scrimba.vercel.app/
