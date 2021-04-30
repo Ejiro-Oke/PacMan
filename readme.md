@@ -1,6 +1,6 @@
 Challenge from Srimba
 
-My recreation of the PacMAn is a "vanilla javaScript" game with HTML and CSS
+My recreation of PacMAn is a "vanilla javaScript" game with HTML and CSS
 
 
  PacMan moves around the grid, eating pacdots, powerpellets, and scared ghosts while avoiding walls. Here are the Javascript functions implemented to make that happen:
